@@ -3,8 +3,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 20px;
   }
-
-  .container {
+.container {
     width: 40vw;
     margin: 0 auto;
     background-color: #fff;
@@ -13,17 +12,17 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
 
-  h2 {
+ h2 {
     text-align: center;
   }
 
-  label {
+ label {
     display: block;
     margin-bottom: 10px;
   }
 
-  input[type="text"],
-  input[type="password"] {
+ input[type="text"],
+ input[type="password"] {
     width: 96.5%;
     padding: 10px;
     border-radius: 5px;
@@ -31,7 +30,7 @@ body {
     margin-bottom: 20px;
   }
 
-  select {
+ select {
     width: 100%;
     padding: 10px;
     border-radius: 5px;
@@ -39,7 +38,7 @@ body {
     margin-bottom: 20px;
   }
 
-  button {
+ button {
     width: 100%;
     padding: 10px;
     background-color: #ff0000;
@@ -49,9 +48,10 @@ body {
     cursor: pointer;
   }
 
-  button:hover {
+ button:hover {
     background-color: #000000;
   }
 
   
     
+  
